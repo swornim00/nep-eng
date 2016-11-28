@@ -1,0 +1,25 @@
+{
+  "name": "nep-eng",
+  "version": "1.0.0",
+  "description": "Get english words translated into nepali.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bravegurkha/nepdict.git"
+  },
+  "keywords": [
+    "nepali",
+    "english",
+    "traslator",
+    "nepali-to-english"
+  ],
+  "author": "Swornim Shrestha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bravegurkha/nepdict/issues"
+  },
+  "homepage": "https://github.com/bravegurkha/nepdict#readme"
+}
