@@ -1,9 +1,9 @@
 {
   "name": "nep-eng",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get english words translated into nepali.",
   "main": "index.js",
-  "readme" : "README.md",
+  "readme": "README.md",
   "scripts": {
     "test": "node test.js"
   },
