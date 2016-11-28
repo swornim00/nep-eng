@@ -6,7 +6,7 @@ Translate English words into Nepali.
 
 # How to install
 
-```
+```sh
 
   $ npm install -g nep-eng
 
@@ -14,7 +14,7 @@ Translate English words into Nepali.
 
 # How to use?
 
-```
+```js
   'use strict';
 
   var NepaliWords = require('nep-eng');
