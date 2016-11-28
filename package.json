@@ -1,15 +1,14 @@
 {
   "name": "nep-eng",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get english words translated into nepali.",
   "main": "index.js",
-  "readme": "README.md",
   "scripts": {
     "test": "node test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bravegurkha/nepdict.git"
+    "url": "git+https://github.com/bravegurkha/nep-eng.git"
   },
   "keywords": [
     "nepali",
@@ -20,7 +19,7 @@
   "author": "Swornim Shrestha",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bravegurkha/nepdict/issues"
+    "url": "https://github.com/bravegurkha/nep-eng/issues"
   },
-  "homepage": "https://github.com/bravegurkha/nepdict#readme"
+  "homepage": "https://github.com/bravegurkha/nep-eng#readme"
 }
