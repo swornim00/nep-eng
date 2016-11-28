@@ -1,4 +1,4 @@
-# nep-eng
+# nep-eng [![Build Status](https://travis-ci.org/bravegurkha/nep-eng.svg?branch=master)](https://travis-ci.org/bravegurkha/nep-eng)
 
 Translate English words into Nepali.
 
@@ -29,4 +29,4 @@ Translate English words into Nepali.
 
 # License
 
- [MIT](https://opensource.org/licenses/mit-license.php) &copy; Swornim Shrestha <srestaswrnm@gmail.com>  
+ [MIT](https://opensource.org/licenses/mit-license.php) &copy; Swornim Shrestha  
