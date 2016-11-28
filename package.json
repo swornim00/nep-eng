@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Get english words translated into nepali.",
   "main": "index.js",
+  "readme" : "README.md",
   "scripts": {
     "test": "node test.js"
   },
